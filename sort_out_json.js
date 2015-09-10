@@ -5,7 +5,6 @@ var rm_emptystring=function(arr){
 	var entryid,tibetanid,chinesedefid;
 	var newterms=[];
 	for(var i=0;i<arr.length;i++){
-		if(i==0 && i==arr.length-1) return;
 		if(arr[i].Entry) {
 			entryid=i;
 			newterms.push(arr[i]);
@@ -13,7 +12,6 @@ var rm_emptystring=function(arr){
 		if(!arr[i].Entry) {
 			newterms[newterms.length-1].TibetanDefination+=i-entryid+"."+arr[i].TibetanDefination
 		}
-
 	}
 	console.log(newterms)
 
