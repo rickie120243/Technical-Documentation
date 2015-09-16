@@ -2,7 +2,7 @@
 //	return "<b>"+term.entry+"("+term.page+")"+"</b> : "+"藏文解釋 : "+term.tdefinition+" 中文解釋 : "+term.cdefinition;
 //}
 var showentry=function(term){
-	return "<div noClick='showdetails()'>"+term.entry+"("+term.page+")</div>";
+	return "<div onClick='showdetails()'>"+term.entry+"("+term.page+")</div>";
 }
 
 var doentrySearch=function(tofind){
