@@ -1,22 +1,28 @@
 <html>
-<head>
-<title>大圓滿辭典</title>
-<meta charset="UTF-8">
-<script src="ui.js"></script>
-<script src="search.js"></script>
-<script src="data.js"></script>
-<body>
-<div style="width:100%;height:100%">
-<div id="left" style="width:25%;height:100%;float:left;">
-<input id="entryinput" onInput="doentrySearch(entryinput.value)"/>
-<button onClick="doentrySearch(entryinput.value)">search</button>
-<div id="display1">
-</div>
-</div>
-<div id="right"style="width:74%;height:100%;float:left;">
-<div id="display2"></div>
-</div>
-</div>
-</body>
-</head>
+	<head>
+		<title>大圓滿辭典</title>
+		<meta charset="UTF-8">
+		<script src="ui.js"></script>
+		<script src="search.js"></script>
+		<script src="data.js"></script>
+	
+	<body>
+	
+	<div style="width:100%;height:100%">
+		
+		<div id="left" style="width:25%;height:100%;float:left;overflow-y:auto">
+		<input id="entryinput" onInput="doentrySearch(entryinput.value)"/>
+		<button onClick="doentrySearch(entryinput.value)">search</button>
+		<div id="display1"></div>
+		</div>
+		
+		<div id="right"style="width:74%;height:100%;float:left;overflow-y:no">
+		<div id="display2"></div>
+		</div>
+
+	</div>
+
+	</body>
+
+	</head>
 </html>
