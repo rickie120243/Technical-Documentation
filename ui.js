@@ -14,5 +14,10 @@ var doentrySearch=function(tofind){
 
 var showdetails=function(tofind){
 	//var arr=entrySearch(tofind.replace(/\(\d+.\d+\)/,""));
-	document.getElementById("display2").innerHTML=showterm(tofind);
+	document.getElementById("display2").innerHTML=drawtable(tofind);
+}
+
+var drawtable = function(obj){
+//	var columnNumber = 10;
+	return "<table border='1'><tbody><tr><td>"+obj.entry+"</td><td>藏文解釋 :"+obj.tdefinition+"</td><td>中文解釋 :"+obj.cdefinition+"</td></tr></tbody></table>";
 }
