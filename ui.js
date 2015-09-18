@@ -19,6 +19,22 @@ var showdetails=function(tofind){
 
 var drawtable = function(obj){
 	//	var columnNumber = 10;
-	return "<table border='1'><tbody><tr><td>"+obj.entry+"</td><td>藏文解釋 :"+obj.tdefinition+"</td><td>中文解釋 :"+obj.cdefinition+"</td></tr></tbody></table>";
+	return "<button onClick='edit()'>Edit</button>"+"<table id='details' border='1'><thead><tr>"+"<th>Entry</th>"+"<th>藏文解釋</th>"+"<th>中文解釋</th>"+
+			"<tbody><tr><td>"+obj.entry+"</td><td>"+obj.tdefinition+"</td><td>"+
+			obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
 }
-		
+	
+var edit=function(){
+	var table=document.getElementById("details").innerHTML;
+	var edittable="<button onClick='save_edit()'>Save</button>"+"<table id='edited_details' border='1'>"+
+					table.replace(/<td>(.+?)<\/td>/g,"<td><textarea>$1</textarea>");
+	document.getElementById("display2").innerHTML=edittable;
+}
+
+var save_edit=function(){
+	var table=document.getElementById("edited_details").innerHTML;
+	console.log(table);
+	var savetable="<button onClick='edit()'>Save</button>"+"<table id='details' border='1'>"+
+					table.replace(/<textarea>/g,"").replace(/<\/textarea>/g,"");
+	document.getElementById("display2").innerHTML=savetable;
+}	
