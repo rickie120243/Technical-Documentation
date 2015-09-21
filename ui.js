@@ -19,22 +19,30 @@ var showdetails=function(tofind){
 
 var drawtable = function(obj){
 	//	var columnNumber = 10;
-	return "<button onClick='edit()'>Edit</button>"+"<table id='details' border='1'><thead><tr>"+"<th>Entry</th>"+"<th>藏文解釋</th>"+"<th>中文解釋</th>"+
-			"<tbody><tr><td>"+obj.entry+"</td><td>"+obj.tdefinition+"</td><td>"+
-			obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
+	var table="<button onClick='edit()'>Edit</button>"+"<table id='details'><thead><tr>"+
+			"<th align='left'>Entry</th>"+"<th align='left'>藏文解釋</th>"+
+			"<th align='left'>中文解釋</th>"+"<tbody><tr><td>"+obj.entry+"</td><td>"+
+			obj.tdefinition+"</td><td>"+obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
+	localStorage.undo=table;
+	return table;
+}
+
+var cancel=function(){
+	document.getElementById("display2").innerHTML=localStorage.undo;
 }
 	
 var edit=function(){
 	var table=document.getElementById("details").innerHTML;
-	var edittable="<button onClick='save_edit()'>Save</button>"+"<table id='edited_details' border='1'>"+
-					table.replace(/<td>(.+?)<\/td>/g,"<td><textarea>$1</textarea>");
+	var edittable="<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
+					+"<table id='edited_details'>"+table.replace(/<td>/g,"<td contenteditable='true'>");
 	document.getElementById("display2").innerHTML=edittable;
 }
 
 var save_edit=function(){
 	var table=document.getElementById("edited_details").innerHTML;
-	console.log(table);
-	var savetable="<button onClick='edit()'>Save</button>"+"<table id='details' border='1'>"+
-					table.replace(/<textarea>/g,"").replace(/<\/textarea>/g,"");
+
+	var savetable="<button onClick='edit()'>Edit</button>"+"<table id='details'>"+
+					table.replace(/<td contenteditable="true">/g,"<td>");
+	localStorage.undo=savetable;
 	document.getElementById("display2").innerHTML=savetable;
 }	
