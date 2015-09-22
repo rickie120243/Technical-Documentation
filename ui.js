@@ -8,6 +8,11 @@ var doentrySearch=function(tofind){
 	document.getElementById("display1").innerHTML=arr.map(showentry).join("<br/>");
 }
 
+var doabbSearch=function(tofind){
+	var arr=abbSearch(tofind);
+	document.getElementById("display1").innerHTML=arr.map(showentry).join("<br/>");
+}
+
 var showdetails=function(tofind){
 	//var arr=entrySearch(tofind.replace(/\(\d+.\d+\)/,""));
 	document.getElementById("display2").innerHTML=drawtable(tofind);
@@ -46,13 +51,24 @@ var drawtable = function(obj){
     return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
 }
 
+/*var addRow=function(){
+	var table = document.getElementById("edited_details");
+    var cells=table.getElementsByTagName("tr")
+    console.log(cells[0].innerHTML);
+    var row = table.insertRow(cells.length);
+    var cell1 = row.insertCell(0);
+    var cell2 = row.insertCell(1);
+//    cell1.innerHTML = "<input></input>";
+//    cell2.innerHTML = "<input></input>";
+} */
+
 var cancel=function(){
 	document.getElementById("display2").innerHTML=localStorage.undo;
 }
 	
 var edit=function(){
 	var table=document.getElementById("details").innerHTML;
-	var edittable="<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
+	var edittable="<button onClick='addRow()'>Add Row</button>"+"<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
 					+"<table id='edited_details'>"+table.replace(/<td>/g,"<td contenteditable='true'>");
 	document.getElementById("display2").innerHTML=edittable;
 }

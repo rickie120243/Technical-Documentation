@@ -19,7 +19,8 @@
 <section class="container">
 	
     <form class="search" method="post" action="main.html">
-      <input id="entryinput" onInput="doentrySearch(entryinput.value)" type='search' name='q' placeholder="Search..." autocomplete="off"/>
+      <input id="entryinput" onInput="doentrySearch(this.value)" type='search' name='q' placeholder="辭條..." autocomplete="off"/>
+      <input id="abbinput" onInput="doabbSearch(this.value)" type='search' name='q' placeholder="略語..." autocomplete="off"/>
     <div id = 'entrylist'>
       <ul id="display1" class="search-ac">
        
