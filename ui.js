@@ -1,7 +1,3 @@
-var showterm=function(term){
-	return "<b>"+term.entry+"("+term.page+")"+"</b> : <br/>"+"藏文解釋 : "+term.tdefinition+"<br/> 中文解釋 : "+term.cdefinition;
-}
-
 var showentry=function(term){
 	var str = JSON.stringify(term,"","");
 	return "<li onClick='showdetails("+str+")'>"+term.entry+"<p>"+term.page+"</p></li>";
