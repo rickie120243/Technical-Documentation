@@ -16,24 +16,26 @@ var showdetails=function(tofind){
 	//var arr=entrySearch(tofind.replace(/\(\d+.\d+\)/,""));
 	document.getElementById("display2").innerHTML=drawtable(tofind);
 
-	var table = document.getElementById("results");
+	var table = document.getElementById("details");
 	var tds = table.getElementsByTagName("td");
-	tds[11].innerHTML = tofind.page; tds[12].innerHTML = tofind.entry;
+	tds[0].innerHTML = tofind.page; tds[1].innerHTML = tofind.entry;
 }
 
 var drawtable = function(obj){
 
-    var tablestart = "<table id = results>";
+    var tablestart = "<table id = 'details'>";
+    var thstart = "<th>";
+    var thend = "</th>";
     var tableend = "</table>";
     var trstart = "<tr>";
     var trend = "</tr>";
     var tdstart = "<td>";
     var tdend = "</td>";
     var data = "&nbsp;";//non-breaking-space (讓td tag有東西，但顯示出的是空格;td tag沒東西的話，格子會不存在，排版會亂掉)
-    var tablehead = "<tr>" + tdstart + "頁碼" + tdend + tdstart + "詞條" + tdend + tdstart + "藏文解釋" + tdend 
-    					   + tdstart + "中文解釋" + tdend + tdstart + "略語1" + tdend + tdstart + "略語2" + tdend 
-    					   + tdstart + "略語3" + tdend + tdstart + "同義詞1" + tdend + tdstart + "同義詞2" + tdend 
-    					   + tdstart + "同義詞3" + tdend + tdstart + "註記" + tdend + "</tr>";
+    var tablehead = "<tr>" + thstart + "頁碼" + thend + thstart + "詞條" + thend + thstart + "藏文解釋" + thend 
+    					   + thstart + "中文解釋" + thend + thstart + "略語1" + thend + thstart + "略語2" + thend 
+    					   + thstart + "略語3" + thend + thstart + "同義詞1" + thend + thstart + "同義詞2" + thend 
+    					   + thstart + "同義詞3" + thend + thstart + "註記" + thend + "</tr>";
 
 	var tablecontent = tablestart + tablehead;
 

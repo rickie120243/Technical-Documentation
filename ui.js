@@ -15,16 +15,39 @@ var doentrySearch=function(tofind){
 var showdetails=function(tofind){
 	//var arr=entrySearch(tofind.replace(/\(\d+.\d+\)/,""));
 	document.getElementById("display2").innerHTML=drawtable(tofind);
+
+	var table = document.getElementById("details");
+	var tds = table.getElementsByTagName("td");
+	tds[0].innerHTML = tofind.page; tds[1].innerHTML = tofind.entry;
 }
 
 var drawtable = function(obj){
-	//	var columnNumber = 10;
-	var table="<button onClick='edit()'>Edit</button>"+"<table id='details'><thead><tr>"+
-			"<th align='left'>Entry</th>"+"<th align='left'>藏文解釋</th>"+
-			"<th align='left'>中文解釋</th></thead>"+"<tbody id='chi'><tr><td>"+obj.entry+"</td><td>"+
-			obj.tdefinition+"</td><td>"+obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
-	localStorage.undo=table;
-	return table;
+
+    var tablestart = "<table id = 'details'>";
+    var thstart = "<th>";
+    var thend = "</th>";
+    var tableend = "</table>";
+    var trstart = "<tr>";
+    var trend = "</tr>";
+    var tdstart = "<td>";
+    var tdend = "</td>";
+    var data = "&nbsp;";//non-breaking-space (讓td tag有東西，但顯示出的是空格;td tag沒東西的話，格子會不存在，排版會亂掉)
+    var tablehead = "<tr>" + thstart + "頁碼" + thend + thstart + "詞條" + thend + thstart + "藏文解釋" + thend 
+    					   + thstart + "中文解釋" + thend + thstart + "略語1" + thend + thstart + "略語2" + thend 
+    					   + thstart + "略語3" + thend + thstart + "同義詞1" + thend + thstart + "同義詞2" + thend 
+    					   + thstart + "同義詞3" + thend + thstart + "註記" + thend + "</tr>";
+
+	var tablecontent = tablestart + tablehead;
+
+	for (var i = 0; i < obj.tdefinitions.length; i++){
+		for(var j = 0; j < obj.tdefinitions[i].cdefinitions.length; j++){
+		tablecontent += "<tr>" + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
+							   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + "&nbsp;" + tdend 
+							   + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend 
+							   + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
+		}
+    }
+    return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
 }
 
 var cancel=function(){
