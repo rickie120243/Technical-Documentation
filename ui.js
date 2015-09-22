@@ -21,8 +21,8 @@ var drawtable = function(obj){
 	//	var columnNumber = 10;
 	var table="<button onClick='edit()'>Edit</button>"+"<table id='details'><thead><tr>"+
 			"<th align='left'>Entry</th>"+"<th align='left'>藏文解釋</th>"+
-			"<th align='left'>中文解釋</th><tr></thead>"+"<tbody><tr><td>"+obj.entry+"</td><td>"+
-			obj.tdefinition+"</td><td id='chi'>"+obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
+			"<th align='left'>中文解釋</th>"+"<tbody><tr><td>"+obj.entry+"</td><td>"+
+			obj.tdefinition+"</td><td>"+obj.cdefinition+"</td></tr></tbody></table>"+"<br/>";
 	localStorage.undo=table;
 	return table;
 }
