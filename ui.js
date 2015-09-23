@@ -24,7 +24,7 @@ var showdetails=function(tofind){
 
 var drawtable = function(obj){
 
-    var tablestart = "<table id = 'details'>";
+    var tablestart = "<table id = 'details' border-bottom-style:solid;>";
     var thstart = "<th>";
     var thend = "</th>";
     var tableend = "</table>";
@@ -32,7 +32,7 @@ var drawtable = function(obj){
     var trend = "</tr>";
     var tdstart = "<td>";
     var tdend = "</td>";
-    var data = "&nbsp;";//non-breaking-space (讓td tag有東西，但顯示出的是空格;td tag沒東西的話，格子會不存在，排版會亂掉)
+    var data = "";//non-breaking-space (讓td tag有東西，但顯示出的是空格;td tag沒東西的話，格子會不存在，排版會亂掉)
     var tablehead = "<tr>" + thstart + "頁碼" + thend + thstart + "詞條" + thend + thstart + "藏文解釋" + thend 
     					   + thstart + "中文解釋" + thend + thstart + "略語1" + thend + thstart + "略語2" + thend 
     					   + thstart + "略語3" + thend + thstart + "同義詞1" + thend + thstart + "同義詞2" + thend 
@@ -48,10 +48,11 @@ var drawtable = function(obj){
 			var syn1 = obj.tdefinitions[i].cdefinitions[j].synonyms[0];
 			var syn2 = obj.tdefinitions[i].cdefinitions[j].synonyms[1];
 			var syn3 = obj.tdefinitions[i].cdefinitions[j].synonyms[2];
-		tablecontent += "<tr>" + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
+		tablecontent += "<tr>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
 							   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + abb1 + tdend 
 							   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
-							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
+							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart 
+							   + obj.tdefinitions[i].cdefinitions[j].note + tdend + "</tr>";
 		}
     }
     return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
