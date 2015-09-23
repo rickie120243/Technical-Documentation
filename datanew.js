@@ -8,8 +8,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "庫緞，庫中所有之綢緞。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -25,9 +34,16 @@ terms = [
           {
             "cdef": "作吧!作事吧!",
             "abbreviations": [
-              "敬"
+              "敬",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -42,8 +58,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "一種哈達。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -58,8 +83,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.印度橋閃毗國。2.佛殿脊上之寶頂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -74,8 +108,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "具藏女，日凡仙人之妻。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -90,8 +133,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "管家，司庫者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -106,8 +158,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "眉間白毫(佛三十二相之一)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -122,8 +183,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "小指。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -138,8 +208,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "庫主。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -156,11 +235,15 @@ terms = [
             "cdef": "1.司庫。2.印度橋薩羅國。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
-              "མཛོད་པ།"
-            ]
+              "མཛོད་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -177,9 +260,15 @@ terms = [
             "cdef": "芭蕉。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -194,8 +283,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "陷阱，捕獸之網。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -206,9 +304,15 @@ terms = [
             "cdef": "1.動物園，獸苑。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -219,9 +323,15 @@ terms = [
             "cdef": "2.悲傷，憂鬱。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -236,8 +346,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "漏，如水點下滴。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -252,10 +371,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "紊亂，如上下錯亂。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛག་འཛོག"
-            ]
+              "འཛག་འཛོག",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -270,8 +396,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "漏，滴。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -286,8 +421,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "為遺精而預備的小囊。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -302,10 +446,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "使漏下者。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛག་བྱེད།"
-            ]
+              "འཛག་བྱེད།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -319,10 +470,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛག་པ་པོ།"
-            ]
+              "འཛག་པ་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -337,8 +496,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "能漏樹，阿摩羅樹，租達樹。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -353,10 +521,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "紊亂，如上下錯亂。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛག་གེ་འཛོག་གེ།"
-            ]
+              "འཛག་གེ་འཛོག་གེ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -371,8 +546,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "已漏，已漏下。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -387,10 +571,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "石之一種。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛང་དཀར།"
-            ]
+              "འཛང་དཀར།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -404,10 +595,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛང་།"
-            ]
+              "འཛང་།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -422,8 +621,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "紊亂貌。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -438,8 +646,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.摼，吝嗇。2.缺少，如說手頭緊。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -450,11 +667,15 @@ terms = [
             "cdef": "消耗，消費。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
-              "ཟད་བ།"
-            ]
+              "ཟད་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -469,10 +690,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "賢愚。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "མཛངས་བླུན།"
-            ]
+              "མཛངས་བླུན།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -487,8 +715,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "賢良之行為。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -503,8 +740,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "盡，完。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -515,9 +761,15 @@ terms = [
             "cdef": "消費，耗費",
             "abbreviations": [
               "增",
-              "本"
+              "本",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -532,8 +784,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "難相愛，難和睦，不和美。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -544,9 +805,15 @@ terms = [
             "cdef": "難做到。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -561,8 +828,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "親愛。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -577,8 +853,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "丈夫，愛人，亦作 མཛན་པོ། མཛའ་བོ།。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -593,8 +878,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "妻，亦作 མཛན་མོ། མཛའ་མོ།。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -610,11 +904,16 @@ terms = [
           {
             "cdef": "梵語 ཛ་པན་之變音，誦咒。",
             "abbreviations": [
-              "梵"
+              "梵",
+              "",
+              ""
             ],
             "synonyms": [
-              "འཛབ་བཟླས།"
-            ]
+              "འཛབ་བཟླས།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -625,9 +924,15 @@ terms = [
             "cdef": "1.用數珠記數念誦咒語。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -638,11 +943,15 @@ terms = [
             "cdef": "2.或作འཛབས་པ། 災難，危險。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
-              "འཛབས་པ།"
-            ]
+              "འཛབས་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -653,9 +962,15 @@ terms = [
             "cdef": "3.勤奮。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -669,10 +984,18 @@ terms = [
         "tdef": "ཛབ་བ་དང་དོན་འབྲེལ་བ།",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛབ་བ།"
-            ]
+              "འཛབ་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -687,8 +1010,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "ཛམྦུ之變音，樹名。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -704,9 +1036,16 @@ terms = [
           {
             "cdef": "瞻部洲，參看ཛམ་བུ་གླིང་條。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -721,8 +1060,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瞻部樹林。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -737,8 +1085,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "親友，友愛。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -753,10 +1110,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "愛人，參看 མཛའ་བོ། མཛའ་མོ་條。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛའ་མོ།"
-            ]
+              "འཛའ་མོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -770,10 +1134,18 @@ terms = [
         "tdef": "ཛའ་བོ་དང་དོན་འབྲེལ་བ།",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛའ་བོ།"
-            ]
+              "འཛའ་བོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -788,8 +1160,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.牛之垂胡，牛頸下垂之肉。2.飯食。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -798,8 +1179,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "流蘇，下懸",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -810,9 +1200,15 @@ terms = [
             "cdef": "1.進午餐。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -823,9 +1219,15 @@ terms = [
             "cdef": "2.披於肩上。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -836,9 +1238,15 @@ terms = [
             "cdef": "3.胡亂穿衣，急忙披衣。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -849,9 +1257,15 @@ terms = [
             "cdef": "帶穗子。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -866,8 +1280,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "聲嘶。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -882,8 +1305,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "喧雜。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -894,9 +1326,15 @@ terms = [
             "cdef": "1.為某事而忙碌，從事於，為某事所牽制。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -907,9 +1345,15 @@ terms = [
             "cdef": "2.禁戒，節制。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -924,10 +1368,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "爭鬥，較力，撩跤，打仗。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛིང་ག་འགྱེད།"
-            ]
+              "འཛིང་ག་འགྱེད།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -941,10 +1392,18 @@ terms = [
         "tdef": "ཛིང་ག་བཀྱེ་བ་དང་དོན་འབྲེལ་བ།",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛིང་ག་བཀྱེ་བ།"
-            ]
+              "འཛིང་ག་བཀྱེ་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -959,8 +1418,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "紊亂，如頭髮凌亂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -975,8 +1443,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "亂，如頭髮亂，線亂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -987,9 +1464,15 @@ terms = [
             "cdef": "常與 སྐྲ 連用，間或與 མགོ་ 連用，豎毛的，亂蓬蓬的(指披頭散髮的乞丐或地獄鬼卒) 。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1000,9 +1483,15 @@ terms = [
             "cdef": "草木叢雜。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1018,14 +1507,30 @@ terms = [
           {
             "cdef": "持生。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "大梵(天神名)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1040,8 +1545,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "魔羯魚之一種。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1056,8 +1570,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "心中所持之法。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1072,8 +1595,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "使他人受持正法。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1088,8 +1620,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "執持之形狀，姿態。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1100,9 +1641,15 @@ terms = [
             "cdef": "拳。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1117,10 +1664,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "持，如心中憶持。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛིན་ཤར།"
-            ]
+              "འཛིན་ཤར།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1129,8 +1683,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.執，用手拿著。2.一種草。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1141,9 +1704,15 @@ terms = [
             "cdef": "1.執，握，攫。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1154,9 +1723,15 @@ terms = [
             "cdef": "2.支持。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1167,9 +1742,15 @@ terms = [
             "cdef": "3.覺察，理解。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1180,9 +1761,15 @@ terms = [
             "cdef": "4.執為，認為，計為。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1193,9 +1780,15 @@ terms = [
             "cdef": "5.捉者，持者，持有者。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1206,9 +1799,15 @@ terms = [
             "cdef": "6.施行者。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1219,9 +1818,15 @@ terms = [
             "cdef": "能取(古譯)。",
             "abbreviations": [
               "增",
-              "本"
+              "本",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1236,8 +1841,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.捕捉工具。2.捉馬工具。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1253,14 +1867,30 @@ terms = [
           {
             "cdef": "能持",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "1.手。2.山。3.丙子年。4.大梵(天神名)。5.遍入(天神名)。6.太陽。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1271,9 +1901,15 @@ terms = [
             "cdef": "鉗子。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1289,14 +1925,30 @@ terms = [
           {
             "cdef": "持女",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "1.地。2.乳母。3.慳吝，吝嗇。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1312,9 +1964,16 @@ terms = [
           {
             "cdef": "馱麼羅，大數之一。",
             "abbreviations": [
-              "梵"
+              "梵",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1329,10 +1988,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "持念，如心中記著。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛིན་བ།"
-            ]
+              "འཛིན་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1347,8 +2013,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "持。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1359,9 +2034,15 @@ terms = [
             "cdef": "ཛིན་པ་的不正確寫法。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1376,8 +2057,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "鬧，如群眾的喧嘩。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1392,8 +2082,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "壓迫，損害",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1404,9 +2103,15 @@ terms = [
             "cdef": "1.滴，漏。",
             "abbreviations": [
               "增",
-              "法"
+              "法",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1417,11 +2122,15 @@ terms = [
             "cdef": "2.擠出，捏出。",
             "abbreviations": [
               "增",
-              "法"
+              "法",
+              ""
             ],
             "synonyms": [
-              "འཚི་ར།"
-            ]
+              "འཚི་ར།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1436,8 +2145,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "當栽，當將樹栽於地上。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1452,10 +2170,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "栽者，栽樹者。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛུག་བྱེད།"
-            ]
+              "འཛུག་བྱེད།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1469,10 +2194,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛུག་པ་པོ།"
-            ]
+              "འཛུག་པ་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1487,8 +2220,16 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "栽，植，已將樹栽於地。",
-            "abbreviations": [],
-            "synonyms": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
             "note": "原注འཛུགས་ཟིན་བ།已栽，恐系འཛུགས་བཞིན་བ་正栽之誤"
           }
         ]
@@ -1500,9 +2241,15 @@ terms = [
             "cdef": "1.插入，刺入，推入。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1513,9 +2260,15 @@ terms = [
             "cdef": "2.栽植。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1526,9 +2279,15 @@ terms = [
             "cdef": "3.安置。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1539,9 +2298,15 @@ terms = [
             "cdef": "4.豎立柱子，樹立(標準)。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1552,9 +2317,15 @@ terms = [
             "cdef": "5.建立，創立，奠定。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1565,9 +2336,15 @@ terms = [
             "cdef": "6.引入。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1578,9 +2355,15 @@ terms = [
             "cdef": "7.作不及物動詞時有鑽入，刺入，捉住，滲入等義，但多為象徵用法。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1595,8 +2378,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "一只羊的體腔(ཤ་ཁགོ་ 指剝去皮和無頭物內臟的牲畜)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1611,8 +2403,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "插入，使入內。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1623,9 +2424,15 @@ terms = [
             "cdef": "引導，指導，誘導。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1640,8 +2447,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.笑。 2.白水泡。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1657,11 +2473,16 @@ terms = [
           {
             "cdef": "微笑，抿著嘴笑。",
             "abbreviations": [
-              "達"
+              "達",
+              "",
+              ""
             ],
             "synonyms": [
-              "འཛུམ་བག"
-            ]
+              "འཛུམ་བག",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1671,9 +2492,16 @@ terms = [
           {
             "cdef": "閉合。",
             "abbreviations": [
-              "增"
+              "增",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1687,10 +2515,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛུམ་པ།"
-            ]
+              "འཛུམ་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1705,8 +2541,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "而現微笑。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1717,9 +2562,15 @@ terms = [
             "cdef": "抿著嘴笑。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1734,8 +2585,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "不笑。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1750,10 +2610,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "微笑，微笑著說話。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛུམ་ཡལ་ཏེ།"
-            ]
+              "འཛུམ་ཡལ་ཏེ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1767,10 +2634,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛུམ་དམུལ་ཏེ།"
-            ]
+              "འཛུམ་དམུལ་ཏེ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1785,8 +2660,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "迴避，躲避。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1797,9 +2681,15 @@ terms = [
             "cdef": "過去。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1814,8 +2704,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "無處躲避。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1830,8 +2729,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "竄入，潛入，竄入地下。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1842,9 +2750,15 @@ terms = [
             "cdef": "1.滑走。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1855,9 +2769,15 @@ terms = [
             "cdef": "2.潛出，溜走。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1873,9 +2793,16 @@ terms = [
           {
             "cdef": "即ཛེ་ཏའི་ཚལ། 祇陀林。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1890,10 +2817,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "梯子。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེག་རྟེན།"
-            ]
+              "འཛེག་རྟེན།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1908,8 +2842,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "將上升，將登高。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1924,8 +2867,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "登山者，向上爬者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1940,8 +2892,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "已爬上去。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1956,8 +2917,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "長，如長臉。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1966,8 +2936,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "高，高舉。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -1982,8 +2961,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "承接，如將以鉢接或以手接。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -1994,9 +2982,15 @@ terms = [
             "cdef": "盛，執，放置。",
             "abbreviations": [
               "增",
-              "法"
+              "法",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2011,8 +3005,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "唾盂，痰盂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2027,10 +3030,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "羞慚者。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེམ་བག་ཅན།"
-            ]
+              "འཛེམ་བག་ཅན།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2044,10 +3054,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེམ་པ་པོ།"
-            ]
+              "འཛེམ་པ་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2058,11 +3076,15 @@ terms = [
             "cdef": "或作འཛེམ་པ་ཅན། 怕羞的，謙遜的。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
-              "འཛེམ་པ་ཅན།"
-            ]
+              "འཛེམ་པ་ཅན།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2077,8 +3099,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "勿客氣。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2093,8 +3124,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "無羞耻。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2109,8 +3149,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "羞慚。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2125,10 +3174,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "說了，如“眾人說話了”。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེར་བ།"
-            ]
+              "འཛེར་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2143,8 +3199,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.瘤疖，如樹木的瘤疖。 2.肉刺。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2158,10 +3223,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེར་དུམ།"
-            ]
+              "འཛེར་དུམ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2170,8 +3243,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.皮或肉的瘤刺。 2.聲音嘶啞，聲塞。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2180,10 +3262,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "說，如“眾人已說話”。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛེར་ཏོ།"
-            ]
+              "འཛེར་ཏོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2198,8 +3287,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "釘子。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2214,8 +3312,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "釘子，鐵釘。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2230,8 +3337,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "拳。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2246,8 +3362,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "打。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2261,8 +3386,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
-            "synonyms": []
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2277,8 +3412,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "將會合，所遇。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2293,10 +3437,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "會合者，相遇者。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛོམ་བྱེད།"
-            ]
+              "འཛོམ་བྱེད།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2310,10 +3461,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "འཛོམ་པ་པོ།"
-            ]
+              "འཛོམ་པ་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2328,8 +3487,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "已聚會，已會晤。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2340,11 +3508,15 @@ terms = [
             "cdef": "或作འཛོམ་པ། 1.相遇，會合。 2.接近。 3.組合，交織。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
-              "འཛོམ་པ།"
-            ]
+              "འཛོམ་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2360,9 +3532,16 @@ terms = [
           {
             "cdef": "桌子。",
             "abbreviations": [
-              "漢"
+              "漢",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2377,8 +3556,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "錯亂，錯誤。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2393,8 +3581,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "作陶器者，泥瓦匠。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2409,10 +3606,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "一面鼓，大鼓，鼓之一種。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫ་རྔ་ཆེན་པོ།"
-            ]
+              "རྫ་རྔ་ཆེན་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2427,8 +3631,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "長腰鼓，鼓之一種。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2443,8 +3656,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "大鼓，鼓之一種。 [增]大罐鼓。 [達](同)#",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2459,8 +3681,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.西康的瀾滄江。 2.池塘的水。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2475,8 +3706,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "陶器。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2491,8 +3731,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瓦盆，瓦鉢。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2507,8 +3756,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瓦匠。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2519,9 +3777,15 @@ terms = [
             "cdef": "爛泥。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2536,8 +3800,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瓦瓶，罐子。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2552,8 +3825,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "陶器，如瓦瓶，水灌，缸。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2568,8 +3850,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "有燒瓦的泥土之由。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2584,8 +3875,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瓦胚，未燒之陶器等。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2600,8 +3900,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "泥水匠之家具。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2616,8 +3925,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "零碎，紊亂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2632,10 +3950,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "派遣。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫང་རྫང་།"
-            ]
+              "རྫང་རྫང་།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2650,8 +3975,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "派遣者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2666,10 +4000,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "派遣。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫང་བ།"
-            ]
+              "རྫང་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2684,8 +4025,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.虛妄。 2.說假話者。 3.有泥者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2700,8 +4050,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "泥多，泥濘。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2712,9 +4071,15 @@ terms = [
             "cdef": "極濕難耕之地。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2729,10 +4094,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.泥，如渾水濕泥。 2.虛妄。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫབ་རྫོབ།"
-            ]
+              "རྫབ་རྫོབ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2746,10 +4118,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫབ་རྫུབ།"
-            ]
+              "རྫབ་རྫུབ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2764,8 +4144,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.一切財物。 2.藥物。 3.火藥。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2775,9 +4164,16 @@ terms = [
           {
             "cdef": "1.物質，物件。",
             "abbreviations": [
-              "增"
+              "增",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2787,9 +4183,16 @@ terms = [
           {
             "cdef": "2.在哲學中指物質，實質，實有。",
             "abbreviations": [
-              "增"
+              "增",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2804,10 +4207,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.以財物做成。 2.廟，佛殿。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫས་ཀྱིས་བསྒྲུབས།"
-            ]
+              "རྫས་ཀྱིས་བསྒྲུབས།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2821,10 +4231,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫས་ཀྱི་གྲུབ་པ།"
-            ]
+              "རྫས་ཀྱི་གྲུབ་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2840,9 +4258,16 @@ terms = [
           {
             "cdef": "一體，如心與心所二為一體。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2858,9 +4283,16 @@ terms = [
           {
             "cdef": "異體。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2875,8 +4307,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "(གྲངས་ 似是གྲང་ 字之誤)冷風。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2887,9 +4328,15 @@ terms = [
             "cdef": "1.風。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2900,9 +4347,15 @@ terms = [
             "cdef": "2.或作牧人。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -2913,9 +4366,15 @@ terms = [
             "cdef": "嗅覺。",
             "abbreviations": [
               "增",
-              "高"
+              "高",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2930,8 +4389,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "旋風。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2946,8 +4414,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "風與雨。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2962,10 +4439,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.牧者。 2.保護者。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫི་བོ།"
-            ]
+              "རྫི་བོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2980,8 +4464,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "順風，風吹來之方向。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -2996,10 +4489,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.揉，如正揉面。 2.踏，跺，踩。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫི་བཞིན་པ།"
-            ]
+              "རྫི་བཞིན་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3010,9 +4510,15 @@ terms = [
             "cdef": "1.搗，擠碎。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3023,9 +4529,15 @@ terms = [
             "cdef": "2.捏，搓揉。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3036,9 +4548,15 @@ terms = [
             "cdef": "3.壓迫，折磨。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3053,10 +4571,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.保姆。 2.牧羊人。 3.風。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫི་པ།"
-            ]
+              "རྫི་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3065,8 +4590,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.牧者。2.保護者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3081,8 +4615,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "睫毛。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3093,9 +4636,15 @@ terms = [
             "cdef": "壺，罐，盆。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3110,8 +4659,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "睫毛厚密。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3126,8 +4684,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "無保護者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3142,10 +4709,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.揉，如正揉面。 2.踏，踩。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫི་བ།"
-            ]
+              "རྫི་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3160,8 +4734,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "冷風。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3176,8 +4759,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狗。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3192,8 +4784,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "威嚴。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3204,9 +4805,15 @@ terms = [
             "cdef": "剛強。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3221,8 +4828,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "將池中水潑出(命令詞)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3237,8 +4853,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "池塘，湖沼。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3253,8 +4878,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "池中水被潑出。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3269,8 +4903,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "須潑出池中水。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3285,8 +4928,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "大池，湖。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3301,8 +4953,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "池，湖。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3317,8 +4978,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "筏子，船只。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3326,11 +4996,18 @@ terms = [
         "tdef": "རྫིངས།",
         "cdefinitions": [
           {
+            "cdef": "",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3345,8 +5022,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "小瓦罐。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3357,9 +5043,15 @@ terms = [
             "cdef": "1.牧人。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3370,9 +5062,15 @@ terms = [
             "cdef": "2.魚鰭。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3387,8 +5085,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "牧人，如牧羊人。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3403,8 +5110,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "揉吧 !揉麵吧!",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3419,10 +5135,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "虛偽，假的。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫ་བག"
-            ]
+              "རྫ་བག",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3430,11 +5153,18 @@ terms = [
         "tdef": "ཁྲམ་པ། ཕྲ་མ།",
         "cdefinitions": [
           {
+            "cdef": "",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3450,9 +5180,16 @@ terms = [
           {
             "cdef": "神變，如了解他人之心，翱翔虛空等。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3468,9 +5205,16 @@ terms = [
           {
             "cdef": "五種神變:1.修持與後得之神變。 2.誦根底羅咒，飛騰虛空等。 3.了知他心。 4.藥力所起。 5.業力所感。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3485,10 +5229,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "偽，虛妄。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫུ།"
-            ]
+              "རྫུ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3499,9 +5250,15 @@ terms = [
             "cdef": "偽裝笑顏。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3516,8 +5273,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "虛妄者，說妄語者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3532,8 +5298,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "妄語者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3549,9 +5324,16 @@ terms = [
           {
             "cdef": "妄，十不善之一，如未看見而却說看見。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3567,9 +5349,16 @@ terms = [
           {
             "cdef": "妄語，虛話。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3584,8 +5373,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "障蔽，欺誑，說謊。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3601,9 +5399,16 @@ terms = [
           {
             "cdef": "化生，天及中有等，皆變化生。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3618,8 +5423,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "化，如變化。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3628,8 +5442,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "假，虛妄不實。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3644,10 +5467,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "卷起，撩起，提起，捆起。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫེ་བཞིན་པ།"
-            ]
+              "རྫེ་བཞིན་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3662,10 +5492,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "正卷起，正撩起，正提起，正捆起。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫེ་བ།"
-            ]
+              "རྫེ་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3680,8 +5517,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "瓦罐，小沙灌，瓦瓶。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3696,8 +5542,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "撩起吧！把衣服撩起吧！",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3712,8 +5567,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.大圓滿。 2.西康一地名及寺院名。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3729,9 +5593,16 @@ terms = [
           {
             "cdef": "圓滿時，果熟時，安樂時。賢劫時。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3746,8 +5617,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "圓滿，完了，完成。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3758,9 +5638,15 @@ terms = [
             "cdef": "1.成就，畢竟。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3771,9 +5657,15 @@ terms = [
             "cdef": "2.完備，完善。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3789,9 +5681,16 @@ terms = [
           {
             "cdef": "三菩提，大菩提，佛位，圓滿大菩提。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3807,9 +5706,16 @@ terms = [
           {
             "cdef": "富蘭那，外道之一。",
             "abbreviations": [
-              "梵"
+              "梵",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3820,9 +5726,15 @@ terms = [
             "cdef": "1.完結。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3833,9 +5745,15 @@ terms = [
             "cdef": "2.避諱死之路。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3850,8 +5768,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "圓滿詞，如藏文之གོ་ངོ་ 等字，亦作སླར་བསྡུ།",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3867,9 +5794,16 @@ terms = [
           {
             "cdef": "圓滿次第",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3884,8 +5818,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "將圓滿，臨完。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3901,9 +5844,16 @@ terms = [
           {
             "cdef": "正等覺，二利究竟之佛果。",
             "abbreviations": [
-              "佛"
+              "佛",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3918,8 +5868,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "圓滿，完了。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3934,8 +5893,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.堡壘，碉堡。 2.駐堡壘之官。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -3946,9 +5914,15 @@ terms = [
             "cdef": "現在指地方長官和稅務官的總部。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3963,8 +5937,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "堡壘，碉堡。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3979,8 +5962,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "住堡中之官長(縣長之類)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -3996,14 +5988,30 @@ terms = [
           {
             "cdef": "住堡女。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "鄔摩天女。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4018,8 +6026,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "路糧等行裝",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4034,10 +6051,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "差遣，正在路中遣送。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫོང་རྫོང་བ།"
-            ]
+              "རྫོང་རྫོང་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4051,10 +6075,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "རྫོང་བ།"
-            ]
+              "རྫོང་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4069,8 +6101,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "碉堡和地產等。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4085,8 +6126,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "逃往堡中。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4101,8 +6151,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "守護碉堡等者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4117,8 +6176,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.送行的禮物。 2.遣送。 3.裝入內。 4.奉獻。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4133,8 +6201,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.遣送遠方。 2.裝入(命令詞)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4149,10 +6226,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "障蔽，ཀུན་རྫོབ་པ་ 一詞，即普遍障蔽之義。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཀུན་རྫོབ་པ།"
-            ]
+              "ཀུན་རྫོབ་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4167,8 +6251,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "障，遮障(命令詞)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4183,10 +6276,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.須派遣使者遠行。 2.將財寶裝入器中。 3.須派遣。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫང་བྱ"
-            ]
+              "བརྫང་བྱ",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4200,10 +6300,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫང་དགོས"
-            ]
+              "བརྫང་དགོས",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4218,8 +6326,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.寄發。 2.已派遣遠行。 3.已裝入裡面。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4234,8 +6351,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "(未詳)",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4250,8 +6376,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "(未詳)",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4266,10 +6401,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.踏。 2.揉，如揉面。 3.當揉。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫི་བྱ"
-            ]
+              "བརྫི་བྱ",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4284,10 +6426,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "所揉。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫི"
-            ]
+              "བརྫི",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4302,8 +6451,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.已揉，如已揉麵，已揉糌粑。 2.已踏。 3.能勝過。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4318,8 +6476,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "所變化，當變化。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4334,10 +6501,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "變化，如現為忿怒明王，或化為人形。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫུས་པ།"
-            ]
+              "བརྫུས་པ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4351,10 +6525,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "བརྫུས་ཏེ།"
-            ]
+              "བརྫུས་ཏེ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4369,8 +6551,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "(未詳)",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4385,8 +6576,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "所撩起。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4401,8 +6601,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "撩起，衣服已撩起。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4413,9 +6622,15 @@ terms = [
             "cdef": "衣兩面短翹。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4430,8 +6645,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.狐。 2.柳宿(二十八宿之一)。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4442,9 +6666,15 @@ terms = [
             "cdef": "溝槽或管子，西藏一般為木製的。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4455,9 +6685,15 @@ terms = [
             "cdef": "呼僕人。",
             "abbreviations": [
               "增",
-              "高"
+              "高",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4472,10 +6708,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狐，野干。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་མོ།"
-            ]
+              "ཝ་མོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4486,9 +6729,15 @@ terms = [
             "cdef": "狡猾的人，膽小的人。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4503,10 +6752,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "水竇，房檐上的流水洞。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་བ།"
-            ]
+              "ཝ་བ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4517,9 +6773,15 @@ terms = [
             "cdef": "廊檐上流水槽的口。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4534,8 +6796,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.狐穴。 2.屋上水竇。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4550,8 +6821,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "大狐狸。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4562,9 +6842,15 @@ terms = [
             "cdef": "打狐狸的套子。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4579,8 +6865,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狐狸叫。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4595,8 +6890,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.順著瓦檐留下的水。 2.水竇，水洞。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4611,8 +6915,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "小筐，籃子。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4628,14 +6941,30 @@ terms = [
           {
             "cdef": "狐主。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "犀牛。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4650,8 +6979,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "玄狐，黑狐。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4662,9 +7000,15 @@ terms = [
             "cdef": "黑元狐皮。",
             "abbreviations": [
               "增",
-              "四"
+              "四",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4679,10 +7023,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狐皮。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་སློག"
-            ]
+              "ཝ་སློག",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4698,14 +7049,30 @@ terms = [
           {
             "cdef": "垂胡。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "山羊。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4720,10 +7087,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "水竇，屋檐上的流水洞。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་ཁ"
-            ]
+              "ཝ་ཁ",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4734,9 +7108,15 @@ terms = [
             "cdef": "甲狀腺腫。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4751,10 +7131,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狐。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་སྐྱེས།"
-            ]
+              "ཝ་སྐྱེས།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4769,8 +7156,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "善於隱藏，善於逃避。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4785,8 +7181,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "婆羅尼斯，婆羅奈河與阿斯河二河中間之城市或地區。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4797,12 +7202,15 @@ terms = [
             "cdef": "或作བྰ་ར་ན་སི། 印度的貝拿勒斯城，釋迦佛在其鄰近初轉法輪。(達作ཝ་ར་ན་སི་ )",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
               "བྰ་ར་ན་སི།",
-              "ཝ་ར་ན་སི"
-            ]
+              "ཝ་ར་ན་སི",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4818,9 +7226,16 @@ terms = [
           {
             "cdef": "龍。",
             "abbreviations": [
-              "梵"
+              "梵",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4831,9 +7246,15 @@ terms = [
             "cdef": "1.水神。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4844,9 +7265,15 @@ terms = [
             "cdef": "2.一種草。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4861,8 +7288,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "(未詳)",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4878,14 +7314,30 @@ terms = [
           {
             "cdef": "狐路。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "屍體，墳墓。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4900,8 +7352,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "明顯，清楚。或作ཝལ་ལེ། ཝལ་ལེ་བ།",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -4912,12 +7373,15 @@ terms = [
             "cdef": "或作ཝལ་ལེ། ཝལ་ལེ་བ།",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
             "synonyms": [
               "ཝལ་ལེ།",
-              "ཝལ་ལེ་བ།"
-            ]
+              "ཝལ་ལེ་བ།",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4932,8 +7396,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "明顯。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4948,8 +7421,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "環，耳環。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4964,8 +7446,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "一種蘋果。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -4981,11 +7472,16 @@ terms = [
           {
             "cdef": "王爵。",
             "abbreviations": [
-              "漢"
+              "漢",
+              "",
+              ""
             ],
             "synonyms": [
-              "ཝང་ཀུན།"
-            ]
+              "ཝང་ཀུན།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5000,10 +7496,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "王公，王爵與公爵。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝང་།"
-            ]
+              "ཝང་།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5018,10 +7521,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "笑。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝང་འཛུམ།"
-            ]
+              "ཝང་འཛུམ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5035,10 +7545,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝང་ཝང་།"
-            ]
+              "ཝང་ཝང་།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5053,8 +7571,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "明顯地，清楚地。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5062,11 +7589,18 @@ terms = [
         "tdef": "ཝལ་ལེ།",
         "cdefinitions": [
           {
+            "cdef": "",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5081,8 +7615,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "明顯，清楚。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5097,8 +7640,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.由狐，以狐。 (ཝ་ 的第三囀聲)2.呼詞，喂!",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5113,10 +7665,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "狐裘，狐皮。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཝ་ལྤགས།"
-            ]
+              "ཝ་ལྤགས།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5131,8 +7690,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "跛腳，裸身，或禿頂。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5143,9 +7711,15 @@ terms = [
             "cdef": "無耳。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5160,8 +7734,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "錫，鉛。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5177,14 +7760,30 @@ terms = [
           {
             "cdef": "鉛生。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "黃丹。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5195,9 +7794,15 @@ terms = [
             "cdef": "水銀。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5212,10 +7817,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "跛，傷。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཞ་བོ།"
-            ]
+              "ཞ་བོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5230,8 +7842,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "跛行，腳腿歪屈而行。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5246,8 +7867,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "隱沒，隱蔽。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5258,9 +7888,15 @@ terms = [
             "cdef": "跛。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5275,10 +7911,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "跛，瘸。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཞ་ཐེངས་པོ།"
-            ]
+              "ཞ་ཐེངས་པོ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5289,9 +7932,15 @@ terms = [
             "cdef": "手足殘廢者。",
             "abbreviations": [
               "增",
-              "本"
+              "本",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5306,8 +7955,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "隨行，侍從，亦作 ཞབས་འབྲིང་། ཞམ་འབྲིང་།",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5322,8 +7980,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "鉛筆。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5338,8 +8005,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "1.獨眼者。 2.手腳有殘疾者。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5354,8 +8030,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "塗抹，如泥水工之塗抹。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5366,9 +8051,15 @@ terms = [
             "cdef": "ཞལ་བ། 的變體字，抹牆。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5383,10 +8074,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "新生草芽，苗。",
-            "abbreviations": [],
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཞ་ལུ་སྐྱེས།"
-            ]
+              "ཞ་ལུ་སྐྱེས།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5397,9 +8095,15 @@ terms = [
             "cdef": "後藏扎什倫布附近的地方名，此地有大廟為著名史學家布頓大師坐床之地。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5413,10 +8117,18 @@ terms = [
         "tdef": "",
         "cdefinitions": [
           {
-            "abbreviations": [],
+            "cdef": "",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
             "synonyms": [
-              "ཞ་ལུ།"
-            ]
+              "ཞ་ལུ།",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5431,8 +8143,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "帽子的頂子。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5447,8 +8168,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "帽架。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5463,8 +8193,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "帽之一種。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5479,8 +8218,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "長耳帽，如宗喀巴帽。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5495,8 +8243,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "帽子，冠。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5507,9 +8264,15 @@ terms = [
             "cdef": "或作ཞ།",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5524,13 +8287,31 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "紅帽。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "西藏佛教的舊派。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5545,13 +8326,31 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "黃帽。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "西藏佛教的新派。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5567,14 +8366,30 @@ terms = [
           {
             "cdef": "黃帽主。",
             "abbreviations": [
-              "藻"
+              "藻",
+              "",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           },
           {
             "cdef": "宗喀巴大師。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
@@ -5589,8 +8404,17 @@ terms = [
         "cdefinitions": [
           {
             "cdef": "酥油之脂肪，油沫。",
-            "abbreviations": [],
-            "synonyms": []
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5601,9 +8425,15 @@ terms = [
             "cdef": "1.凝血塊。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5614,9 +8444,15 @@ terms = [
             "cdef": "2.茶或其他液體(如奶)冷卻後形成的薄膜。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       },
@@ -5627,9 +8463,15 @@ terms = [
             "cdef": "3.一天，但並非與“夜”相對(與夜相對的字為 ཉིན་མོ་ )，據說有三種：(1) ཁྱིམ་ཞག 太陽經過黃道所需時間的三十分之一。 (2) ཉིན་ཞག 由日出至次日日出之時間。 (3) ཚེས་ཞག 與每次新月增減成比例之時間區分。",
             "abbreviations": [
               "增",
-              "達"
+              "達",
+              ""
             ],
-            "synonyms": []
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
           }
         ]
       }
