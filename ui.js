@@ -47,10 +47,10 @@ var drawtable = function(obj){
 		var syn1 = obj.tdefinitions[i].cdefinitions[0].synonyms[0];
 		var syn2 = obj.tdefinitions[i].cdefinitions[0].synonyms[1];
 		var syn3 = obj.tdefinitions[i].cdefinitions[0].synonyms[2];
-		tablecontent += "<tr>" + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
+		tablecontent += "<tr>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
 							   + tdstart + obj.tdefinitions[i].cdefinitions[0].cdef + tdend + tdstart + abb1 + tdend 
 							   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
-							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
+							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + data + tdend + "</tr>";
 		for(var j = 1; j < obj.tdefinitions[i].cdefinitions.length; j++){
 			var abb1 = obj.tdefinitions[i].cdefinitions[j].abbreviations[0];
 			var abb2 = obj.tdefinitions[i].cdefinitions[j].abbreviations[1];
@@ -58,10 +58,10 @@ var drawtable = function(obj){
 			var syn1 = obj.tdefinitions[i].cdefinitions[j].synonyms[0];
 			var syn2 = obj.tdefinitions[i].cdefinitions[j].synonyms[1];
 			var syn3 = obj.tdefinitions[i].cdefinitions[j].synonyms[2];
-			tablecontent += "<tr>" + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend 
+			tablecontent += "<tr>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + data + tdend 
 								   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + abb1 + tdend 
 								   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
-								   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
+								   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + data + tdend + "</tr>";
 		}
     }
     return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
