@@ -24,7 +24,7 @@ var showdetails=function(tofind){
 
 var drawtable = function(obj){
 
-    var tablestart = "<table id = 'details' border-bottom-style:solid;>";
+    var tablestart = "<table id = 'details'>";
     var thstart = "<th>";
     var thend = "</th>";
     var tableend = "</table>";
@@ -58,16 +58,16 @@ var drawtable = function(obj){
     return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
 }
 
-/*var addRow=function(){
+var addRow = function(){
 	var table = document.getElementById("edited_details");
-    var cells=table.getElementsByTagName("tr")
-    console.log(cells[0].innerHTML);
-    var row = table.insertRow(cells.length);
-    var cell1 = row.insertCell(0);
-    var cell2 = row.insertCell(1);
-//    cell1.innerHTML = "<input></input>";
-//    cell2.innerHTML = "<input></input>";
-} */
+    var tr = table.getElementsByTagName("tr");
+    var rowlength = tr[0].getElementsByTagName("th").length;
+    var newtr = table.insertRow(tr.length);
+    for(var i = 0;i<rowlength;i++){
+    	var td = newtr.insertCell(i);
+    	td.setAttribute('contentEditable', 'true');
+    }
+}
 
 var cancel=function(){
 	document.getElementById("display2").innerHTML=localStorage.undo;
