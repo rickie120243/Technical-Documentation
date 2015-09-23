@@ -14,12 +14,7 @@ var doabbSearch=function(tofind){
 }
 
 var showdetails=function(tofind){
-	//var arr=entrySearch(tofind.replace(/\(\d+.\d+\)/,""));
 	document.getElementById("display2").innerHTML=drawtable(tofind);
-
-	var table = document.getElementById("details");
-	var tds = table.getElementsByTagName("td");
-	tds[0].innerHTML = tofind.page; tds[1].innerHTML = tofind.entry;
 }
 
 var drawtable = function(obj){
@@ -55,7 +50,10 @@ var drawtable = function(obj){
 							   + obj.tdefinitions[i].cdefinitions[j].note + tdend + "</tr>";
 		}
     }
-    return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
+    localStorage.undo = tablecontent.replace(/(<td>)(<\/td>)/,"$1"+obj.page+"$2")
+    					.replace(/(<td>)(<\/td>)/,"$1"+obj.entry+"$2") 
+    					+ tableend + "<button onClick='edit()'>Edit</button>";
+    return localStorage.undo;
 }
 
 var addRow = function(){
@@ -65,7 +63,7 @@ var addRow = function(){
     var newtr = table.insertRow(tr.length);
     for(var i = 0;i<rowlength;i++){
     	var td = newtr.insertCell(i);
-    	td.setAttribute('contentEditable', 'true');
+    	if(i>1) td.setAttribute('contentEditable', 'true');
     }
 }
 
