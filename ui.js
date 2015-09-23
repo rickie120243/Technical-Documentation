@@ -42,10 +42,16 @@ var drawtable = function(obj){
 
 	for (var i = 0; i < obj.tdefinitions.length; i++){
 		for(var j = 0; j < obj.tdefinitions[i].cdefinitions.length; j++){
+			var abb1 = obj.tdefinitions[i].cdefinitions[j].abbreviations[0];
+			var abb2 = obj.tdefinitions[i].cdefinitions[j].abbreviations[1];
+			var abb3 = obj.tdefinitions[i].cdefinitions[j].abbreviations[2];
+			var syn1 = obj.tdefinitions[i].cdefinitions[j].synonyms[0];
+			var syn2 = obj.tdefinitions[i].cdefinitions[j].synonyms[1];
+			var syn3 = obj.tdefinitions[i].cdefinitions[j].synonyms[2];
 		tablecontent += "<tr>" + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
-							   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + "&nbsp;" + tdend 
-							   + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend 
-							   + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
+							   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + abb1 + tdend 
+							   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
+							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + "&nbsp;" + tdend + "</tr>";
 		}
     }
     return tablecontent + tableend + "<button onClick='edit()'>Edit</button>";
