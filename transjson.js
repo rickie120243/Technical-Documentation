@@ -1,5 +1,9 @@
+var inputforder = "rawjson";
+
 var fs = require("fs");
-var json = require("./GCD_9_721_730.json");
+var list = fs.readdirSync(inputforder);
+var sortedlist = list.sort(function(a,b){return a.match(/\d+/)-b.match(/\d+/)});
+var finaljson = [];
 
 var kick_null_object=function(json){
 	var newjson = [];
@@ -54,8 +58,18 @@ var build_entry_obj =function(json){
 	return newjson;
 }
 
-var out = kick_null_object(json);
-var out1 = build_cdef_obj(out);
-var out2 = build_tdef_obj(out1);
-var output = build_entry_obj(out2);
-fs.writeFileSync("./output.json",JSON.stringify(output,"","  "),"utf8");
+var transjson_merge = function(file){
+	var filename = "./" + inputforder + "/" + file;
+	var json = require(filename);
+
+	var out = kick_null_object(json);
+	var out1 = build_cdef_obj(out);
+	var out2 = build_tdef_obj(out1);
+	var output = build_entry_obj(out2);
+	finaljson = finaljson.concat(output);
+}
+
+var start =new Date();
+sortedlist.map(transjson_merge);
+fs.writeFileSync("./finaljson.json", JSON.stringify(finaljson,"","  "), "utf8" );
+console.log(new Date()-start);
