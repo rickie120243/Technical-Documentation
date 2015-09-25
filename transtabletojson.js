@@ -1,18 +1,25 @@
 var trytry = function(){
 	var table = document.getElementById("edited_details");
 	var tr = table.getElementsByTagName("tr");
-	var out = [];
+	var json = [];
 	for(var i = 1; i < tr.length; i++){
-		var arr = [];
+		var obj = {};
 		for(var j = 0; j < tr[i].cells.length; j++){
-			arr.push(tr[i].cells[j].innerHTML);
+			obj["Page"] = tr[i].cells[0].innerHTML; obj["Entry"] = tr[i].cells[1].innerHTML; obj["Tibetan Defination"] = tr[i].cells[2].innerHTML;
+			obj["中文解釋"] = tr[i].cells[3].innerHTML; obj["略語1"] =tr[i].cells[4].innerHTML; obj["略語2"] =tr[i].cells[5].innerHTML;
+			obj["略語3"] =tr[i].cells[6].innerHTML; obj["同義詞1"] =tr[i].cells[7].innerHTML; obj["同義詞2"] =tr[i].cells[8].innerHTML;
+			obj["同義詞3"] =tr[i].cells[9].innerHTML; obj["注記"] =tr[i].cells[10].innerHTML;
 		}	
-		out.push(arr);
+		json.push(obj);
 	}
-	console.log(out);
+	var out = kick_null_object(json);
+	var out1 = build_cdef_obj(out);
+	var out2 = build_tdef_obj(out1);
+	var output = build_entry_obj(out2);
+	console.log(output);
 }
 	
-/*var kick_null_object=function(json){
+var kick_null_object=function(json){
 	var newjson = [];
 	for (i=0;i<json.length;i++){
 		if (json[i].Entry !== "" || json[i]["Tibetan Defination"] !== "" || json[i].中文解釋 !== "") newjson.push(json[i]);
@@ -64,9 +71,3 @@ var build_entry_obj =function(json){
 	}
 	return newjson;
 }
-*/
-//var out = kick_null_object(json);
-//var out1 = build_cdef_obj(out);
-//var out2 = build_tdef_obj(out1);
-//var output = build_entry_obj(out2);
-//fs.writeFileSync("./output.json",JSON.stringify(output,"","  "),"utf8");
