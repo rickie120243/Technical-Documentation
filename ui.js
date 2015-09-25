@@ -23,8 +23,6 @@ var drawtable = function(obj){
     var thstart = "<th>";
     var thend = "</th>";
     var tableend = "</table>";
-    var trstart = "<tr>";
-    var trend = "</tr>";
     var tdstart = "<td>";
     var tdend = "</td>";
     var data = "";//non-breaking-space (讓td tag有東西，但顯示出的是空格;td tag沒東西的話，格子會不存在，排版會亂掉)
@@ -42,7 +40,7 @@ var drawtable = function(obj){
 		var syn1 = obj.tdefinitions[i].cdefinitions[0].synonyms[0];
 		var syn2 = obj.tdefinitions[i].cdefinitions[0].synonyms[1];
 		var syn3 = obj.tdefinitions[i].cdefinitions[0].synonyms[2];
-		tablecontent += "<tr>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
+		tablecontent += "<tr id='content'>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + obj.tdefinitions[i].tdef + tdend 
 							   + tdstart + obj.tdefinitions[i].cdefinitions[0].cdef + tdend + tdstart + abb1 + tdend 
 							   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
 							   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + data + tdend + "</tr>";
@@ -53,7 +51,7 @@ var drawtable = function(obj){
 			var syn1 = obj.tdefinitions[i].cdefinitions[j].synonyms[0];
 			var syn2 = obj.tdefinitions[i].cdefinitions[j].synonyms[1];
 			var syn3 = obj.tdefinitions[i].cdefinitions[j].synonyms[2];
-			tablecontent += "<tr>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + data + tdend 
+			tablecontent += "<tr id='content'>" + tdstart + data + tdend + tdstart + data + tdend + tdstart + data + tdend 
 								   + tdstart + obj.tdefinitions[i].cdefinitions[j].cdef + tdend + tdstart + abb1 + tdend 
 								   + tdstart + abb2 + tdend + tdstart + abb3 + tdend + tdstart + syn1 + tdend 
 								   + tdstart + syn2 + tdend + tdstart + syn3 + tdend + tdstart + data + tdend + "</tr>";
@@ -67,12 +65,14 @@ var drawtable = function(obj){
 
 var addRow = function(){
 	var table = document.getElementById("edited_details");
+	console.log(table);
     var tr = table.getElementsByTagName("tr");
     var rowlength = tr[0].getElementsByTagName("th").length;
     var newtr = table.insertRow(tr.length);
+    newtr.setAttribute('id', 'content');
     for(var i = 0;i<rowlength;i++){
     	var td = newtr.insertCell(i);
-    	if(i>1) td.setAttribute('contentEditable', 'true');
+    	td.setAttribute('contenteditable', 'true');
     }
 }
 
@@ -89,7 +89,7 @@ var edit=function(){
 
 var save_edit=function(){
 	var table=document.getElementById("edited_details").innerHTML;
-
+	trytry();
 	var savetable="<button onClick='edit()'>Edit</button>"+"<table id='details'>"+
 					table.replace(/<td contenteditable="true">/g,"<td>");
 	localStorage.undo=savetable;
