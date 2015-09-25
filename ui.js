@@ -1,6 +1,6 @@
 var showentry=function(term){
-	var str = JSON.stringify(term,"","");
-	return "<li onClick='showdetails("+str+")'>"+term.entry+"<p>"+term.page+"</p></li>";
+	var str = JSON.stringify(term[0],"","");
+	return "<li onClick='showdetails("+str+","+term[1]+")'>"+term[0].entry+"<p>"+term[0].page+"</p></li>";
 }
 
 var doentrySearch=function(tofind){
@@ -13,7 +13,8 @@ var doabbSearch=function(tofind){
 	document.getElementById("display1").innerHTML=arr.map(showentry).join("<br/>");
 }
 
-var showdetails=function(tofind){
+var showdetails=function(tofind,i){
+	setLocation(i);
 	document.getElementById("display2").innerHTML=drawtable(tofind);
 }
 
@@ -59,7 +60,7 @@ var drawtable = function(obj){
     }
     localStorage.undo = tablecontent.replace(/(<td>)(<\/td>)/,"$1"+obj.page+"$2")
     					.replace(/(<td>)(<\/td>)/,"$1"+obj.entry+"$2") 
-    					+ tableend + "<button onClick='edit()'>Edit</button>";
+    					+ tableend +"<button onClick='edit()'>Edit</button>";
     return localStorage.undo;
 }
 
@@ -89,7 +90,7 @@ var edit=function(){
 
 var save_edit=function(){
 	var table=document.getElementById("edited_details").innerHTML;
-	trytry();
+	trans_obj();
 	var savetable="<button onClick='edit()'>Edit</button>"+"<table id='details'>"+
 					table.replace(/<td contenteditable="true">/g,"<td>");
 	localStorage.undo=savetable;

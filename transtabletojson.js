@@ -1,4 +1,10 @@
-var trytry = function(){
+var position;
+
+var setLocation = function(m){
+	position=m;
+}
+
+var trans_obj = function(){
 	var table = document.getElementById("edited_details");
 	var tr = table.getElementsByTagName("tr");
 	var json = [];
@@ -17,6 +23,8 @@ var trytry = function(){
 	var out2 = build_tdef_obj(out1);
 	var output = build_entry_obj(out2);
 	console.log(output);
+	trytry();
+	console.log(position);
 }
 	
 var kick_null_object=function(json){
