@@ -33,7 +33,9 @@
     <form class="search" method="post" action="main.html">
       <input id="entryinput" onInput="doentrySearch(this.value)" type='search' name='q' placeholder="辭條..." autocomplete="off"/>
       <input id="abbinput" onInput="doabbSearch(this.value)" type='search' name='q' placeholder="略語..." autocomplete="off"/>
+
     <div id = 'entrylist'>
+
       <ul id="display1" class="search-ac">
        
       </ul>
@@ -41,7 +43,7 @@
     </form>
   </section>
   		</div>
-		
+    <button onClick="newEntry()">New Entry</button>
 	<div id="right">
 		<div id="display2" class="showterm"></div>
 	</div>

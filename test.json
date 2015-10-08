@@ -1,0 +1,77 @@
+[
+  {
+    "page": "721.1",
+    "entry": "མཛོད་གོས།",
+    "tdefinitions": [
+      {
+        "tdef": "བང་མཛོད་ནས་བྱུང་བའི་གོས་ཆེན།",
+        "cdefinitions": [
+          {
+            "cdef": "庫緞，庫中所有之綢緞。",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "721.2",
+    "entry": "མཛོད་ཅིག",
+    "tdefinitions": [
+      {
+        "tdef": "ཕྱག་ལས་མཛོད་ཅིག་གམ་གྱིས་ཤིག",
+        "cdefinitions": [
+          {
+            "cdef": "作吧!作事吧!",
+            "abbreviations": [
+              "敬",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": "721.3",
+    "entry": "མཛོད་བཏགས།",
+    "tdefinitions": [
+      {
+        "tdef": "ཁ་བཏགས་ཤིག",
+        "cdefinitions": [
+          {
+            "cdef": "一種哈達。",
+            "abbreviations": [
+              "",
+              "",
+              ""
+            ],
+            "synonyms": [
+              "",
+              "",
+              ""
+            ],
+            "note": ""
+          }
+        ]
+      }
+    ]
+  }
+]

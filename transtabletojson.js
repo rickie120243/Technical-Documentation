@@ -1,4 +1,4 @@
-var position;
+var position="clear";
 
 var setLocation = function(m){
 	position=m;
@@ -22,9 +22,14 @@ var trans_obj = function(){
 	var out1 = build_cdef_obj(out);
 	var out2 = build_tdef_obj(out1);
 	var output = build_entry_obj(out2);
-	saveEdited(output[0],position)
-	console.log(output[0]);
-	console.log(position);
+	if(position=="clear"){
+		position=terms.length;
+		saveNewEntry(output[0],position);
+	}else{
+		saveEdited(output[0],position)
+		console.log(output[0]);
+		console.log(position);
+	}
 }
 	
 var kick_null_object=function(json){

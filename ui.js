@@ -1,3 +1,13 @@
+var newEntry=function(){
+	var n=drawtable("new");
+	var newtable="<button onClick='addRow()'>Add Row</button>"+"<button onClick='delRow()'>Delete Row</button>"
+				+"<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
+				+n.replace(/<td>/g,"<td contenteditable='true'>").replace(/details/,"edited_details");
+	document.getElementById("display2").innerHTML=newtable;
+	addRow();
+	setLocation("clear");
+}
+
 var showentry=function(term){
 	var str = JSON.stringify(term[0],"","");
 	return "<li onClick='showdetails("+str+","+term[1]+")'>"+term[0].entry+"<p>"+term[0].page+"</p></li>";
@@ -33,6 +43,8 @@ var drawtable = function(obj){
     					   + thstart + "同義詞3" + thend + thstart + "註記" + thend + "</tr>";
 
 	var tablecontent = tablestart + tablehead;
+
+	if(obj=="new") return tablecontent+tableend;
 
 	for (var i = 0; i < obj.tdefinitions.length; i++){
 		var abb1 = obj.tdefinitions[i].cdefinitions[0].abbreviations[0];
