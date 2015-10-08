@@ -77,13 +77,23 @@ var addRow = function(){
     }
 }
 
+var delRow = function(){
+	var table = document.getElementById("edited_details");
+	console.log(table);
+    var trlength = table.getElementsByTagName("tr").length;
+	if(trlength>1){
+		document.getElementById("edited_details").deleteRow(trlength-1);
+	}
+}
+
 var cancel=function(){
 	document.getElementById("display2").innerHTML=localStorage.undo;
 }
 	
 var edit=function(){
 	var table=document.getElementById("details").innerHTML;
-	var edittable="<button onClick='addRow()'>Add Row</button>"+"<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
+	var edittable="<button onClick='addRow()'>Add Row</button>"+"<button onClick='delRow()'>Delete Row</button>"
+				+"<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
 					+"<table id='edited_details'>"+table.replace(/<td>/g,"<td contenteditable='true'>");
 	document.getElementById("display2").innerHTML=edittable;
 }
