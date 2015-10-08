@@ -4,9 +4,19 @@
 		<meta charset="UTF-8">
 		<script src="ui.js"></script>
 		<script src="search.js"></script>
-		<script src="datanew.js"></script>
-		<script src="save.js"></script>
+		<script src="test.js"></script>
+		<script src="firebase.js"></script>
+		<script>
+		var db = new Firebase('https://shining-heat-1230.firebaseio.com/');
+		db.on("value", function(snapshot) {
+		localStorage.setItem('terms', JSON.stringify(snapshot.val()));  
+		}, function (errorObject) {
+		  console.log("The read failed: " + errorObject.code);
+		});
+
+		</script>
 		<script src="transtabletojson.js"></script>
+		<script src="fetchdatabase.js"></script>
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 

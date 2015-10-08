@@ -1,0 +1,1 @@
+var terms=JSON.parse(localStorage.getItem('terms'));
