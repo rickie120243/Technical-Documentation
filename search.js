@@ -15,7 +15,7 @@ var abbSearch=function(tofind){
 			for(var k=0;k<terms[i].tdefinitions[j].cdefinitions.length;k++){
 				for(var l=0;l<terms[i].tdefinitions[j].cdefinitions[k].abbreviations.length;l++){
 					if(terms[i].tdefinitions[j].cdefinitions[k].abbreviations[l].indexOf(tofind)>-1){
-						if(out[out.length-1]!=terms[i])	out.push(terms[i]);
+						if(out[out.length-1]!=terms[i])	out.push([terms[i],i]);
 					}
 				}
 			}

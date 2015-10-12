@@ -117,4 +117,6 @@ var save_edit=function(){
 					table.replace(/<td contenteditable="true">/g,"<td>");
 	localStorage.undo=savetable;
 	document.getElementById("display2").innerHTML=savetable;
+	var refresh=document.getElementById("entryinput").value;
+	doentrySearch(refresh);
 }	
