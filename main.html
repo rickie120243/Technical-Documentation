@@ -4,7 +4,6 @@
 		<meta charset="UTF-8">
 		<script src="ui.js"></script>
 		<script src="search.js"></script>
-		<script src="test.js"></script>
 		<script src="firebase.js"></script>
 		<script>
 		var db = new Firebase('https://shining-heat-1230.firebaseio.com/');
@@ -21,32 +20,38 @@
 	</head>
 
 	<body>
-	
 	<div id="wrapper">
-		
-		<div id="searchbar">
-		
-		<h1 class="h1">Dzogchen Dictionary</h1>
+	
+		<div id='top' class="mainlogo">
+			<div>Dzogchen Dictionary</div>
+			<button onClick="newEntry()">New Entry</button>
+			<button onClick='edit()'>Edit</button>
+		</div>	
+
+		<div id="search">
 		
 <section class="container">
 	
-    <form class="search" method="post" action="main.html">
+    <form class="searchbar">
       <input id="entryinput" onInput="doentrySearch(this.value)" type='search' name='q' placeholder="辭條..." autocomplete="off"/>
       <input id="abbinput" onInput="doabbSearch(this.value)" type='search' name='q' placeholder="略語..." autocomplete="off"/>
-
-    <div id = 'entrylist'>
-
+    
+    <div id = 'entrylist'>  
       <ul id="display1" class="search-ac">
-       
       </ul>
     </div>  
+    
     </form>
-  </section>
+
+ </section>
   		</div>
-    <button onClick="newEntry()">New Entry</button>
-	<div id="right">
-		<div id="display2" class="showterm"></div>
-	</div>
+		
+		<div class='right'>
+	 
+	 <div id="display2" class="entrydetails"></div>
+
+		</div>
+	
 
 	</div>
 
