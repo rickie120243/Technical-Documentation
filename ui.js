@@ -71,7 +71,7 @@ var drawtable = function(obj){
 		}
     }
     localStorage.undo = tablecontent.replace(/(<td>)(<\/td>)/,"$1"+obj.page+"$2")
-    					.replace(/(<td>)(<\/td>)/,"$1"+obj.entry+"$2") 
+    					.replace(/<\/td>(<td>)(<\/td>)/,"$1"+obj.entry+"$2") 
     					+ tableend +"<button onClick='edit()'>Edit</button>";
     return localStorage.undo;
 }
