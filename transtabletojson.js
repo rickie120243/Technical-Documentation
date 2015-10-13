@@ -10,12 +10,22 @@ var trans_obj = function(){
 	var json = [];
 	for(var i = 1; i < tr.length; i++){
 		var obj = {};
-		for(var j = 0; j < tr[i].cells.length; j++){
-			obj["Page"] = tr[i].cells[0].innerHTML; obj["Entry"] = tr[i].cells[1].innerHTML; obj["Tibetan Defination"] = tr[i].cells[2].innerHTML;
-			obj["中文解釋"] = tr[i].cells[3].innerHTML; obj["略語1"] =tr[i].cells[4].innerHTML; obj["略語2"] =tr[i].cells[5].innerHTML;
-			obj["略語3"] =tr[i].cells[6].innerHTML; obj["同義詞1"] =tr[i].cells[7].innerHTML; obj["同義詞2"] =tr[i].cells[8].innerHTML;
-			obj["同義詞3"] =tr[i].cells[9].innerHTML; obj["注記"] =tr[i].cells[10].innerHTML;
-		}	
+		if(i==1){
+			obj["Page"] = document.getElementById("showpage").innerHTML; 
+			obj["Entry"] = document.getElementById("showentry").innerHTML;
+		}else{
+			obj["Page"] = ""; 
+			obj["Entry"] = ""; 
+		}
+		obj["Tibetan Defination"] = tr[i].cells[0].innerHTML;
+		obj["中文解釋"] = tr[i].cells[1].innerHTML; 
+		obj["略語1"] =tr[i].cells[2].innerHTML; 
+		obj["略語2"] =tr[i].cells[3].innerHTML;
+		obj["略語3"] =tr[i].cells[4].innerHTML; 
+		obj["同義詞1"] =tr[i].cells[5].innerHTML; 
+		obj["同義詞2"] =tr[i].cells[6].innerHTML;
+		obj["同義詞3"] =tr[i].cells[7].innerHTML; 
+		obj["注記"] =tr[i].cells[8].innerHTML;	
 		json.push(obj);
 	}
 	var out = kick_null_object(json);
