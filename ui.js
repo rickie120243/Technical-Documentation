@@ -2,7 +2,9 @@ var newEntry=function(){
 	var n=drawtable("new");
 	var newtable="<button onClick='addRow()'>Add Row</button>"+"<button onClick='delRow()'>Delete Row</button>"
 				+"<button onClick='save_edit()'>Save</button>"+"<button onClick='cancel()'>Cancel</button>"
-				+n.replace(/<td>/g,"<td contenteditable='true'>").replace(/details/,"edited_details");
+				+"<span id='termtitle'>Entry name:<span style='font-size:large' id='showentry' contenteditable='true'>New Entry</span> "
+				+"Page:<span id='showpage' contenteditable='true'>New Entry page</span>"+"</span>"+"<div>"
+				+n.replace(/<td>/g,"<td contenteditable='true'>").replace(/details/,"edited_details")+"</div>";
 	document.getElementById("display2").innerHTML=newtable;
 	addRow();
 	setLocation("clear");
